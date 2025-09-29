@@ -1,0 +1,37 @@
+{
+  "name": "Pizza Sales Theme",
+  "dataColors": [
+    "#E63946",
+    "#FFD60A",
+    "#2A9D8F",
+    "#D4A373",
+    "#1B5E20",
+    "#F3722C",
+    "#E9C46A",
+    "#212529",
+    "#90BE6D",
+    "#577590"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#2D2D2D",
+  "tableAccent": "#E63946",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": { "solid": { "color": "#2D2D2D" } },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#2D2D2D" } },
+            "fontSize": 12
+          }
+        ]
+      }
+    }
+  }
+}
